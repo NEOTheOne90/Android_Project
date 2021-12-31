@@ -1,6 +1,8 @@
 # Android_Project
 <br>
-1. 체질량 계산<br>
+1. 체질량 계산
+<br>
+
 ![BMI](https://user-images.githubusercontent.com/88240177/147801068-fdecff9b-3c04-4d23-8143-977225487644.gif)
 
 2. 구구단 난수<br>
